@@ -1,4 +1,4 @@
-# proje-otobus-baslangic
+# vue rezervasyon projesi
 
 ## Project setup
 ```
